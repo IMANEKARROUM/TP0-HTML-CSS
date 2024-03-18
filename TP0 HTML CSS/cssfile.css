@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(226, 251, 242);
+    color: rgb(0, 0, 0);
+}
+
+h1
+{
+    font-size: 20px;
+}
+
+p
+{
+    margin-left: 4em;
+}
+strong
+{
+    border: 3px solid rgb(203, 250, 246);
+    color: rgb(202, 250, 241);
+    background-color: rgb(206, 248, 238);
+}
